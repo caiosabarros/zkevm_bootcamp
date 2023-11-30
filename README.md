@@ -13,9 +13,28 @@
 8. Why bother using ZK in rollups when they're not exactly needed? (question from a classmate) Answer by moderator: it's more about the "succinct" quality of zero knowledge proofs which compresses information.
 9. Why Optimistic rollups are more used (currently) when compared to zk rollups? An answer from a classmate: "optimistic rollups are 'low tech' or dumb. hence were deployed very fast. zk on the other hand is harder to build, with all the circuits, etc. and was very compute intensive till a couple of years ago (but improving fast). hence optimistic rollups deployed first. however interestingly, optimistic fraud proofs implementation has taken longer than expected, so zk roll ups are gonna be more competitive faster..."
 
+## Class 3:
+- The EVM is stack-based, has mutable (Storage) and immutable(VirtualROM, which is contract's bytecode, for example) components
+- The program counter tracks where we are in the bytecode of a smart contract, tracking which opcode is to be executed next.
+- HH (Homormophic Encryption) refers to making calculations on encrypted data and the decrpyted result of that is as if we had performed computation in the secret itself, but in HH we do not reveal the secret.
+- q: "Don't we need transaction data from the very first rollup block to compute state root?"
+
+for zkEVMs, the proof shows validity of execution trace of a transaction, so a zkEVM like zkSync simply sends account updates to L1 (along with the proof of correct execution). These account updates can be used to compute state root in the case of sequencer failure.
+
 ## Questions:
 1. Why is there a consensus mechanism if there's a built EVM compiler that does not let me move more money than I have, etc?
 
 ## Resources:
 - https://notes.ethereum.org/KbEyHiaSRQW_KS7dDK0OFw (shards quick explanation)
+- From Coogan: {
+Hey all! One of the more challenging things for me has been finding the right resources for learning about the maths behind zkps. It can be really challenging, so I'm looking for interesting ways of presenting mathematical material to make them easier to learn.
 
+Good examples would be something like:
+
+https://www.youtube.com/@3blue1brown
+
+Numberphile and Computerphile YT courses
+
+https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking
+}
+https://github.com/yt-dlp/yt-dlp (YT premium for free?)

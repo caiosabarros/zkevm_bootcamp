@@ -37,4 +37,7 @@ Numberphile and Computerphile YT courses
 
 https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking
 }
-https://github.com/yt-dlp/yt-dlp (YT premium for free?)
+https://github.com/yt-dlp/yt-dlp (YT premium for free?
+https://blog.matter-labs.io/introducing-the-zk-stack-c24240c2532a #the a at the end might have been a typo.
+https://blog.celer.network/2023/08/04/the-pantheon-of-zero-knowledge-proof-development-frameworks/
+https://docs.google.com/presentation/d/1UN2SYeWnK6zwDHOUy_B9JG6HNDd1sZwHEhx7M1MVRZo (zkevm security slides) - guy's from matter labs :D

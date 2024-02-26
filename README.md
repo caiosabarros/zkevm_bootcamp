@@ -41,3 +41,10 @@ https://github.com/yt-dlp/yt-dlp (YT premium for free?
 https://blog.matter-labs.io/introducing-the-zk-stack-c24240c2532a #the a at the end might have been a typo.
 https://blog.celer.network/2023/08/04/the-pantheon-of-zero-knowledge-proof-development-frameworks/
 https://docs.google.com/presentation/d/1UN2SYeWnK6zwDHOUy_B9JG6HNDd1sZwHEhx7M1MVRZo (zkevm security slides) - guy's from matter labs :D
+https://zksync.mirror.xyz/HJ2Pj45EJkRdt5Pau-ZXwkV2ctPx8qFL19STM5jdYh 
+https://www.youtube.com/watch?v=Sk-S8-n6Jo4c - ZK attack
+https://twitter.com/yezhang1998/status/1627713360967139329 -- how to build  zkEVM
+
+https://www.rollup.codes/
+
+

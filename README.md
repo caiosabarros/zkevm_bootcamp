@@ -47,4 +47,5 @@ https://twitter.com/yezhang1998/status/1627713360967139329 -- how to build  zkEV
 
 https://www.rollup.codes/
 
-
+# RESOURCES
+https://www.notion.so/encodeclub/85393f2cf9d449e0a433ae62799c1fde?v=95eeea778a10438b82ec83fbafc3eed8 (Wild database with lots of courses, lectures and stuff)
